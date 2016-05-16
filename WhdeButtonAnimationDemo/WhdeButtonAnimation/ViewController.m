@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "WhdeButton.h"
+#import "WhdeButtonAnimation.h"
 @interface ViewController ()
 
 @end
@@ -18,7 +18,7 @@
     [super viewDidLoad];
     /*self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"IMG_0808"]];*/
     // Do any additional setup after loading the view, typically from a nib.
-    WhdeButton *btn = [WhdeButton buttonWithType:UIButtonTypeCustom];
+    WhdeButtonAnimation *btn = [WhdeButtonAnimation buttonWithType:UIButtonTypeCustom];
     [btn setBackgroundColor:[UIColor greenColor]];
     btn.frame = CGRectMake(0, 0, 260, 80);
     [btn setTitle:@"点击" forState:UIControlStateNormal];

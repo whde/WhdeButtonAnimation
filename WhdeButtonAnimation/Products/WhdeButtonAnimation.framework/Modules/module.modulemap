@@ -1,0 +1,6 @@
+framework module WhdeButtonAnimation {
+  umbrella header "WhdeButtonAnimation.h"
+
+  export *
+  module * { export * }
+}

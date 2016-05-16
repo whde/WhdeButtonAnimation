@@ -4,26 +4,41 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/WhdeButton.h</key>
+		<key>Headers/WhdeButtonAnimation.h</key>
 		<data>
-		PjC7I2FagGAQgexQ59cDxpW4vRM=
+		C63DAZ3RjU5cJlgtZa+y3HIhC7w=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		cvgLNcd1jVuKmsre5bOYKzhl8Xg=
 		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		O61Gn3thZIhBWqtkfqPXqCmqHZ4=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/WhdeButton.h</key>
+		<key>Headers/WhdeButtonAnimation.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PjC7I2FagGAQgexQ59cDxpW4vRM=
+			C63DAZ3RjU5cJlgtZa+y3HIhC7w=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ok2tsFyvDC69dFUzHiETzG5YsFV0p7DhNtjQC7Ovoc4=
+			cag/6H9BBKtNgQKTLTM6Mf5wXvcQVztd5tBAIqSkavs=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O61Gn3thZIhBWqtkfqPXqCmqHZ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Sy5sTjHtzOYFSnIhyBA4YPG2C55HOwDHNIsUeBm5J2E=
 			</data>
 		</dict>
 	</dict>

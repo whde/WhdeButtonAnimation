@@ -1,5 +1,5 @@
 //
-//  WhdeButton.h
+//  WhdeButtonAnimation.h
 //  WhdeButtonAnimation
 //
 //  Created by whde on 16/5/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface WhdeButton : UIButton
+@interface WhdeButtonAnimation : UIButton
 
 @end

@@ -21,15 +21,15 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		F8B57E391CE97F77004D0AF5 /* WhdeButton.h in Headers */ = {isa = PBXBuildFile; fileRef = F8B57E371CE97F77004D0AF5 /* WhdeButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F8B57E3A1CE97F77004D0AF5 /* WhdeButton.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B57E381CE97F77004D0AF5 /* WhdeButton.m */; };
+		F8B57E391CE97F77004D0AF5 /* WhdeButtonAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = F8B57E371CE97F77004D0AF5 /* WhdeButtonAnimation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F8B57E3A1CE97F77004D0AF5 /* WhdeButtonAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B57E381CE97F77004D0AF5 /* WhdeButtonAnimation.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F8B57E2B1CE97F42004D0AF5 /* WhdeButtonAnimation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = WhdeButtonAnimation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8B57E301CE97F42004D0AF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F8B57E371CE97F77004D0AF5 /* WhdeButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhdeButton.h; sourceTree = "<group>"; };
-		F8B57E381CE97F77004D0AF5 /* WhdeButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhdeButton.m; sourceTree = "<group>"; };
+		F8B57E371CE97F77004D0AF5 /* WhdeButtonAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhdeButtonAnimation.h; sourceTree = "<group>"; };
+		F8B57E381CE97F77004D0AF5 /* WhdeButtonAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhdeButtonAnimation.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,8 +71,8 @@
 		F8B57E361CE97F77004D0AF5 /* Class */ = {
 			isa = PBXGroup;
 			children = (
-				F8B57E371CE97F77004D0AF5 /* WhdeButton.h */,
-				F8B57E381CE97F77004D0AF5 /* WhdeButton.m */,
+				F8B57E371CE97F77004D0AF5 /* WhdeButtonAnimation.h */,
+				F8B57E381CE97F77004D0AF5 /* WhdeButtonAnimation.m */,
 			);
 			path = Class;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8B57E391CE97F77004D0AF5 /* WhdeButton.h in Headers */,
+				F8B57E391CE97F77004D0AF5 /* WhdeButtonAnimation.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -175,7 +175,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8B57E3A1CE97F77004D0AF5 /* WhdeButton.m in Sources */,
+				F8B57E3A1CE97F77004D0AF5 /* WhdeButtonAnimation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

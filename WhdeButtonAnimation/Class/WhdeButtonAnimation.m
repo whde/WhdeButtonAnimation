@@ -1,17 +1,17 @@
 //
-//  WhdeButton.m
+//  WhdeButtonAnimation.m
 //  WhdeButtonAnimation
 //
 //  Created by whde on 16/5/13.
 //  Copyright © 2016年 whde. All rights reserved.
 //
 
-#import "WhdeButton.h"
+#import "WhdeButtonAnimation.h"
 
-@interface WhdeButton ()
+@interface WhdeButtonAnimation ()
 @property (nonatomic, strong) CAShapeLayer *shapeLayer;
 @end
-@implementation WhdeButton
+@implementation WhdeButtonAnimation
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
     if (touches.count > 0) {
